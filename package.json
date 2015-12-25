@@ -1,0 +1,23 @@
+{
+  "name": "tf-idf",
+  "version": "1.0.0",
+  "description": "simple tf-idf evaluation on node",
+  "main": "tfidf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/famasya/tf-idf.git"
+  },
+  "keywords": [
+    "tf-idf",
+    "node"
+  ],
+  "author": "Abid Famasya <ping@famasya.com> (http://famasya.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/famasya/tf-idf/issues"
+  },
+  "homepage": "https://github.com/famasya/tf-idf#readme"
+}
