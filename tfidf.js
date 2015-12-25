@@ -1,8 +1,5 @@
 var fs = require('fs');
 
-var split;
-var bank = [];
-
 fs.readFile('corpus.txt','utf8',function(e,data){
 	var mr = mapred(data);
 	var tfval = tf(mr,data.length);
